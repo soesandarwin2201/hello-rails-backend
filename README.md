@@ -86,10 +86,13 @@ Clone the repository
 git clone https://github.com/soesandarwin2201/hello-rails-backend
 Navigate to the folder
 ```
+```
 cd repo-name hello-rails-backend
 ```
 ## Frontend hello-rails-frontend 
+```
 git clone https://github.com/soesandarwin2201/hello-rails-frontend
+```
 
 ### Prerequisites
 
