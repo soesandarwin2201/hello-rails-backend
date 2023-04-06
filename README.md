@@ -17,7 +17,6 @@
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
   - [How should it be tested](#how-should-it-be-tested)
-    - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Usage](#usage)
     - [Deployment](#deployment)
@@ -89,6 +88,8 @@ Navigate to the folder
 ```
 cd repo-name hello-rails-backend
 ```
+## Frontend hello-rails-frontend 
+git clone https://github.com/soesandarwin2201/hello-rails-frontend
 
 ### Prerequisites
 
